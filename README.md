@@ -27,4 +27,3 @@
 </div>
   
 ![Snake animation](https://github.com/edumfelix/edumfelix/blob/output/github-contribution-grid-snake.svg)
-© 2022 GitHub, Inc.

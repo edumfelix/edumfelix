@@ -2,7 +2,7 @@
 
 - 🎓Cursando Ciência da Computação
 - 🌱 Estou estudando atualmente Desenvolvimento Web
-- ✉️ Contacte-me via email: dudumacedofelix613@gmail.com
+- ✉️ Contacte-me via email: eduardofelixdev@gmail.com
 
 <div align="center">
   <a href="https://github.com/edumfelix">

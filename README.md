@@ -1,7 +1,7 @@
 ### Olá, meu nome é Eduardo e aqui é um pouco sobre mim!👋
 
 - 🎓Cursando Ciência da Computação
-- 🌱 Estou estudando atualmente Desenvolvimento Web
+- 🌱 Desenvolvedor Web Back-End migrando pra Full-Stack
 - ✉️ Contacte-me via email: eduardofelixdev@gmail.com
 
 <div align="center">

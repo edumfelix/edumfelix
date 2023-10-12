@@ -4,8 +4,9 @@
 - 🌱 Desenvolvedor Web C# .NET e Angular
 - ✉️ Email para contato: eduardofelixdev@gmail.com
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <i class="devicon-csharp-line-wordmark colored"></i>        
   <i class="devicon-angularjs-plain colored"></i> 
   <i class="devicon-microsoftsqlserver-plain-wordmark"></i>

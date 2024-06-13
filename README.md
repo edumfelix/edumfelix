@@ -1,7 +1,7 @@
 ### Olá, meu nome é Eduardo e aqui é um pouco sobre mim!👋
 
 - 🎓Cursando Ciência da Computação
-- 🌱 Desenvolvedor Web C# .NET e Angular
+- 🌱 Desenvolvedor .NET e Angular
 - ✉️ Email para contato: eduardofelixdev@gmail.com
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
